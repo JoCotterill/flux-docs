@@ -81,27 +81,26 @@ Membership and Engagement
 
 The primary role of the Membership and Engagement working group is;
 
-#. To maintain a membership list and updated directory,
-#. To maintain and oversee Flux CRM,
+#. To promote activities such as meditation before meetings to improve
+   the efficiency of all its committees, its members and the general
+   public
+#. To remove any hurdles within Flux and continually look for new
+   innovative ways to run all aspects of Flux
+#. To create the streamline of the internal working of Flux between its
+   committees and its members
 #. The continual recruitment of new members
 #. The updates to current members on the parties progress
 #. The coordination with the marketing and media working group in
    keeping the parties platforms up to data and as transparency and easy
    to use as possible
 
-
-Internal Training Committee
+Technology
 ---------------------------
 
-The primary role of the internal training committee is
+The primary role of the Technology Working Group is
 
-#. To create the streamline of the internal working of flux between its
-   committees, its members and the general public
-#. To promote activities such as meditation before meetings to improve
-   the efficiency of all its committees, its members and the general
-   public
-#. To remove any hurdles within Flux and continually look for new
-   innovative ways to run all aspects of Flux
+#. To maintain a membership list and updated directory,
+#. To maintain and oversee Flux CRM,
 
 
 Finance and Fundraising
